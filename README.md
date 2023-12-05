@@ -34,7 +34,7 @@ It consists of continuous attributes related to the chemical composition of glas
 
 The classification performance of the HMM classifier is assessed using 5-fold cross-validation. The following evaluation metrics are provided:
 
-1. Confusion Matrix**
+1. Confusion Matrix
 2. Sensitivity
 3. Specificity
 4. Total Accuracy
